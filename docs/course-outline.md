@@ -1,27 +1,27 @@
-# University of Alberta <br> CMPUT 401 - Software Process and Product Management <br> LEC-B1 <br> Winter 2024
+# University of Alberta <br> CMPUT 401 - Software Process and Product Management <br> LEC-A1 <br> Fall 2024
 
 **eClass Page**: https://eclass.srv.ualberta.ca/course/view.php?id=95431
 
 ## Lecture
 * In-person
-* **Fridays**, 9:00AM to 10:50AM, CSC B-10
+* **Fridays**, 9:00AM to 10:50AM, VVC 2-210
 
 
 ## Labs/Seminars
 * In-person
-* **Wednesdays**, 9:00AM to 10:50AM, CSC B-10
+* **Wednesdays**, 9:00AM to 10:50AM, VVC 2-210
 * **Some Mondays**, 9:00AM to 10:50AM
-    * Monday, January 15th, CSC B-10
-    * Monday, March 11th, CSC B-10
-* **Sunday**, Jan 21 12:00PM to 3:00PM, ETLC 1-007
+    * Monday, September 9th, CSC B-10
+    * Monday, December 9th, CSC B-10
+* **Sunday**, September 15 12:00PM to 3:00PM, ETLC E2-001
   
 ## Hackathon    
-* **Friday** evening, Jan 19th, 5:00PM - 9:00PM, ETLC 1-007
-* **Saturday**, January 20th, 9:00AM - 6:00PM, ETLC 1-007 
+* **Friday** evening, Sep 13th, 5:00PM - 9:00PM, ETLC E2-001
+* **Saturday**, Sep 14th, 9:00AM - 6:00PM, ETLC E2-001
 
 ## Presentations and Demo Fair
-* **Wednesday**, Apr 10th 9:00AM - 10:50AM, CSC B-10
-* **Friday**, Apr 12th 9:00AM - 10:50AM, CSC B-10
+* **Friday**, Dec 6th 9:00AM - 10:50AM, VVC 2-210
+* **Monday**, Dec 9th 9:00AM - 10:50AM, CSC B-10
 
 
 
