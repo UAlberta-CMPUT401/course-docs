@@ -1,6 +1,6 @@
 # University of Alberta <br> CMPUT 401 - Software Process and Product Management <br> LEC-A1 <br> Fall 2024
 
-**eClass Page**: https://eclass.srv.ualberta.ca/course/view.php?id=95431
+**eClass Page**: https://eclass.srv.ualberta.ca/course/view.php?id=98625
 
 ## Lecture
 * In-person
