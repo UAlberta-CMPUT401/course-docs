@@ -89,8 +89,4 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 
 * All documents are consistently formatted and carefully proofread
 
-### Wildcard
-
-* The wildcard percentage will be assigned to one or multiple items in the rubric (entirely or split between many items) depending on the life-cycle and specifics of each project
-* The wildcard is for thinking outside of the box and is not considered free marks
 
