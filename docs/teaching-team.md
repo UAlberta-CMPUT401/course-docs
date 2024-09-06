@@ -6,33 +6,29 @@ See [Course Outline](../course-outline/).
 
 ## Teaching Assistants
 
-### Kalvin Eng
-
-**Email**: <kalvin.eng@ualberta.ca>  
-**Office hours**: email for appointment
-
 ### Amir Salimi
 
 **Email**: <asalimi@ualberta.ca>  
 **Office hours**: TBD
 
-### Mashrura Tasnim
+### Anisha Islam
 
-**Email**: <mashrura@ualberta.ca>  
+**Email**: <aislam4@ualberta.ca>  
 **Office hours**: TBD
 
-### Mohayeminul Islam
+### Hasti Karamdel
 
-**Email**: <mdmohaye@ualberta.ca>  
+**Email**: <karamdel@ualberta.ca>  
 **Office hours**: TBD
 
-### YuJing Qu
+### Ahmed Keshta
 
-**Email**: <qu8@ualberta.ca>  
+**Email**: <akeshta@ualberta.ca>  
 **Office hours**: TBD
 
-### Aniket Mishra
+### Jing Wan
 
-**Email**: <mishra2@ualberta.ca>  
+**Email**: <jwan3@ualberta.ca>  
 **Office hours**: TBD
+
 
