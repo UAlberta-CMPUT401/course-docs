@@ -38,7 +38,7 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 | Testing                                  | 20      |
 | Teamwork                                 | 10      |
 | CMPUT 401 Portal                         | 5       |
-| Wildcard                                 | 10      |
+| Addressing TA feedback                   | 10      |
 | **Total**                                | **100** |
 
 _**Revisions**, **Teamwork**, and **Wildcard** deliverables are similar to the ones in the previous sprints._
