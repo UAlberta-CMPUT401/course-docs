@@ -37,8 +37,7 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 | Low-fidelity user interface | 15      |
 | Sprint planning             | 15      |
 | Teamwork                    | 15      |
-| Formatting                  | 5       |
-| Wildcard                    | 5       |
+| Formatting                  | 10       |
 | **Total**                   | **100** |
 
 ### Project overview
