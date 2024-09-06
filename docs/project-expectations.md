@@ -26,6 +26,7 @@ To ensure you can still run your actions, please set up a Runner on Cybera. Ther
 To indicate which commit you would like to be evaluated, create a GitHub release by the sprint deadline.  
 The release should not be a pre-release or draft release.  
 More information can be found here: <https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases>
+The teaching team has the right to modify software requirements when deemed necessary.  Although we try to satisfy the client's software requirements, if the project scope is of complexity not consistant with the course, the teaching team may request a scope modification.
 
 ## Meeting Minutes
 
