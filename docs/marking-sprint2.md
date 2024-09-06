@@ -79,7 +79,10 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 * Team as a whole has made real progress since the last sprint - accomplished what they had planned to
 * Scrum roles are defined for the sprint (in their own section, separate of the team canvas)
 
-### Wildcard
+### Addressing TA feedback
 
-* The wildcard percentage will be assigned to one or multiple items in the rubric (entirely or split between many items) depending on the life-cycle and specifics of each project
-* The wildcard is for thinking outside of the box and is not considered free marks
+* The team has made meaningful efforts to incorporate the TA's feedback from previous sprint.
+* Specific issues raised by the TA have been acknowledged and resolved or a clear plan has been documented to address any remaining concerns.
+* Changes based on feedback are evident in the project deliverables (e.g., revisions, codebase, design).
+* Teams should demonstrate an understanding of the feedback by providing clear justifications or explanations for any decisions that differ from the TA's suggestions.
+* Proactive communication with the TA regarding feedback implementation is encouraged.
