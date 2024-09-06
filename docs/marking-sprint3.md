@@ -14,15 +14,15 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 
 ## Rubric
 
-| Deliverable     | Marks   |
-| --------------- | ------- |
-| Revisions       | 10      |
-| UX, UI design   | 20      |
-| Codebase        | 25      |
-| Testing         | 10      |
-| Sprint planning | 10      |
-| Teamwork        | 15      |
-| Wildcard        | 10      |
+| Deliverable            | Marks   |
+| ---------------------- | ------- |
+| Revisions              | 10      |
+| UX, UI design          | 20      |
+| Codebase               | 25      |
+| Testing                | 10      |
+| Sprint planning        | 10      |
+| Teamwork               | 15      |
+| Addressing TA feedback | 10      |
 | **Total**       | **100** |
 
 
