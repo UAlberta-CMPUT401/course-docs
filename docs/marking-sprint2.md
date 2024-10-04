@@ -27,7 +27,7 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 
 ### Revisions
 
-* All comments from Sprint 1 have been sufficiently addressed
+* All required revisions from Sprint 1 have been sufficiently addressed.
 
 ### Detailed design
 
