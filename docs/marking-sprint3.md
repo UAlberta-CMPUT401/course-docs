@@ -26,7 +26,7 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 | **Total**       | **100** |
 
 
-_**Revisions**, **Codebase**, **Teamwork**, and **Wildcard** deliverables are similar to the ones in the previous sprint._
+_**Revisions**, **Codebase**, **Teamwork**, and **Addressing TA feedback** deliverables are similar to the ones in the previous sprint._
 
 ### UX, UI design
 
