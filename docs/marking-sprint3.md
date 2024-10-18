@@ -33,7 +33,7 @@ _**Revisions**, **Codebase**, **Teamwork**, and **Addressing TA feedback** deliv
 * Product user interface is consistent
 * UX (user experience) is well thought-out and designed for the target audience
 * UI design principles and usability heuristics are applied and described in the docs (e.g. <https://www.nngroup.com/articles/ten-usability-heuristics/>)
-* Accessibility is considered and described in the docs (e.g. colors pass contrast check, see <https://www.alarmsystem.no/color-contrast/>)
+* Accessibility is considered and described in the docs (e.g. colors pass contrast check, see <https://accessibilityaid.com/free-tools/colour-contrast-checker>)
 
 ### Testing
 * Tests exist and run for (as many as possible of) the demonstrated functionalities
