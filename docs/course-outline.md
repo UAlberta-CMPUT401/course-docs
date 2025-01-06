@@ -21,8 +21,8 @@
 * **Saturday**, Jan 18th, 9:00AM - 6:00PM, NRE 1-001
 
 ## Presentations and Demo 
-* **Monday, April 7th, ED 165
-* **Wednesday April 9, ED 165
+* **Monday**, April 7th, ED 165
+* **Wednesday** April 9, ED 165
 
 
 
