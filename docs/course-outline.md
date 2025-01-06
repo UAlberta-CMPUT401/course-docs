@@ -4,24 +4,25 @@
 
 ## Lecture
 * In-person
-* **Fridays**, 9:00AM to 10:50AM, VVC 2-210
+* **Fridays**, 9:00AM to 10:50AM, SAB 3-36
 
 
 ## Labs/Seminars
 * In-person
-* **Wednesdays**, 9:00AM to 10:50AM, VVC 2-210
+* **Most Wednesdays**, 9:00AM to 10:50AM, ECHA L1-350
+  
 * **Some Mondays**, 9:00AM to 10:50AM
-    * Monday, September 9th, CSC B-10
-    * Monday, December 9th, CSC B-10
-* **Sunday**, September 15 12:00PM to 3:00PM, ETLC E2-001
+    * Monday, January 13, ECHA L1-350
+
+* **Sunday**, January 19 12:00PM to 3:00PM, NRE 1-001
   
 ## Hackathon    
-* **Friday** evening, Sep 13th, 5:00PM - 9:00PM, ETLC E2-001
-* **Saturday**, Sep 14th, 9:00AM - 6:00PM, ETLC E2-001
+* **Friday** evening, Jan 17th, 5:00PM - 9:00PM, NRE 1-001
+* **Saturday**, Jan 18th, 9:00AM - 6:00PM, NRE 1-001
 
-## Presentations and Demo Fair
-* **Friday**, Dec 6th 9:00AM - 10:50AM, VVC 2-210
-* **Monday**, Dec 9th 9:00AM - 10:50AM, CSC B-10
+## Presentations and Demo 
+* **Monday, April 7th, ED 165
+* **Wednesday April 9, ED 165
 
 
 
