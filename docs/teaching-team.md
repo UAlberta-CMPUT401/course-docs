@@ -10,18 +10,21 @@ See [Course Outline](../course-outline/).
 
 **Email**: <asalimi@ualberta.ca>  
 
+
 ### Mohayeminul Islam
 
 **Email**: <mdmohaye@ualberta.ca>  
 
+
 ### Hasti Karamdel
 
 **Email**: <karamdel@ualberta.ca>  
-**Office hours**: TBD
+
 
 ### Justin Robertson
 
 **Email**: <jtrober1@ualberta.ca>  
+
 
 ### Jonathen Adsit
 
