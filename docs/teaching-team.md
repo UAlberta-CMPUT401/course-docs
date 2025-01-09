@@ -9,26 +9,23 @@ See [Course Outline](../course-outline/).
 ### Amir Salimi
 
 **Email**: <asalimi@ualberta.ca>  
-**Office hours**: TBD
 
-### Anisha Islam
+### Mohayeminul Islam
 
-**Email**: <aislam4@ualberta.ca>  
-**Office hours**: TBD
+**Email**: <mdmohaye@ualberta.ca>  
 
 ### Hasti Karamdel
 
 **Email**: <karamdel@ualberta.ca>  
 **Office hours**: TBD
 
-### Ahmed Keshta
+### Justin Robertson
 
-**Email**: <akeshta@ualberta.ca>  
-**Office hours**: TBD
+**Email**: <jtrober1@ualberta.ca>  
 
-### Jing Wan
+### Jonathen Adsit
 
-**Email**: <jwan3@ualberta.ca>  
-**Office hours**: TBD
+**Email**: <adsit@ualberta.ca>  
+
 
 
