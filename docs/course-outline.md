@@ -72,7 +72,7 @@ The [Academic Success Centre](https://www.ualberta.ca/current-students/academic-
 
 ### Team Project (70% total)
 
-Your team will deliver the project through an evolutionary process in **five** sprints. All project deliverables will be submitted through the project repository and must be available for inspection by the TAs **by 8 pm two days before the sprint demo** (for example, if your sprint demo is on Wednesday, you must submit a release on Monday, no later than 8 pm). Make sure that your release is on GitHub before 8 pm, there will be a penalty for late submissions (the late submission policy is outlined in the Sprint Rubrics document). The team is marked as a whole (left section in the table below), i.e. each team member receives equal marks.
+Your team will deliver the project through an evolutionary process in **five** sprints. All project deliverables will be submitted through the project repository and must be available for inspection by the TAs **by 8 pm three days before the sprint demo** (for example, if your sprint demo is on Wednesday, you must submit a release on Sunday, no later than 8 pm). Make sure that your release is on GitHub before 8 pm, there will be a penalty for late submissions (the late submission policy is outlined in the Sprint Rubrics document). The team is marked as a whole (left section in the table below), i.e. each team member receives equal marks.
 
 **We may retroactively update your sprint marks based on your _contribution factor_.** It means that your sprint scores may get either higher or lower. The coefficients depend on:
 
