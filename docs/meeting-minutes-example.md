@@ -1,6 +1,5 @@
 !!! note
-
-    Meeting minutes should be stored in a single markdown file in the `/docs` folder labeled as `meeting-minutes.md`.
+    
 
 # Meeting Minutes Example
 

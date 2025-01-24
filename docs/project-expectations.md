@@ -38,7 +38,6 @@ Meeting minutes will record the: date and time, location, attendees, agenda of w
 * You should be meeting with your team every week at the beginning of the week.
 * You should be meeting with your TA every week during the assigned lab.
 * You should be meeting with your client every week (minimum: once per sprint).
-* Meeting minutes should be immediately submitted after each meeting via a Google Forms link on eClass.
 
 ## 401 IP Agreement Form
 

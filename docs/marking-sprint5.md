@@ -32,16 +32,15 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 
 | Deliverable                              | Marks   |
 | ---------------------------------------- | ------- |
-| Revisions                                | 5       |
-| Deployment environment and documentation | 20      |
+| Revisions & Addressing TA feedback       | 10      |
+| Deployment environment and documentation | 25      |
 | Codebase                                 | 30      |
 | Testing                                  | 20      |
 | Teamwork                                 | 10      |
 | CMPUT 401 Portal                         | 5       |
-| Addressing TA feedback                   | 10      |
 | **Total**                                | **100** |
 
-_**Revisions**, **Teamwork**, and **Addressing TA feedback** deliverables are similar to the ones in the previous sprints._
+_**Revisions & Addressing TA feedback**, and **Teamwork** deliverables are similar to the ones in the previous sprints._
 
 ### Deployment environment and documentation
 
@@ -59,7 +58,7 @@ _**Revisions**, **Teamwork**, and **Addressing TA feedback** deliverables are si
 * Github repo is well organized, using the best practices
 * Code is well structured and organized
 * Code is well written and efficient
-* In-line code documentation (comments) is consistent is useful"
+* In-line code documentation (comments) is consistent is useful
 
 ### Testing
 

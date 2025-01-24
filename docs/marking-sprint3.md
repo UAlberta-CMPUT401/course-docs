@@ -14,19 +14,18 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 
 ## Rubric
 
-| Deliverable            | Marks   |
-| ---------------------- | ------- |
-| Revisions              | 10      |
-| UX, UI design          | 20      |
-| Codebase               | 25      |
-| Testing                | 10      |
-| Sprint planning        | 10      |
-| Teamwork               | 15      |
-| Addressing TA feedback | 10      |
-| **Total**       | **100** |
+| Deliverable                         | Marks   |
+| ----------------------------------- | ------- |
+| Revisions & Addressing TA feedback  | 15      |
+| UX, UI design                       | 20      |
+| Codebase                            | 30      |
+| Testing                             | 10      |
+| Sprint planning                     | 10      |
+| Teamwork                            | 15      |
+| **Total**                           | **100** |
 
 
-_**Revisions**, **Codebase**, **Teamwork**, and **Addressing TA feedback** deliverables are similar to the ones in the previous sprint._
+_**Revisions & Addressing TA feedback**, **Codebase**, and **Teamwork** deliverables are similar to the ones in the previous sprint._
 
 ### UX, UI design
 

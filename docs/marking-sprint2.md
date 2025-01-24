@@ -14,20 +14,24 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 
 ## Rubric
 
-| Deliverable            | Marks   |
-| ---------------------- | ------- |
-| Revisions              | 10      |
-| Detailed design        | 20      |
-| Codebase               | 25      |
-| Testing                | 10      |
-| Sprint planning        | 10      |
-| Teamwork               | 15      |
-| Addressing TA feedback | 10      |
-| **Total**              | **100** |
+| Deliverable                        | Marks   |
+| ---------------------------------- | ------- |
+| Revisions & Addressing TA feedback | 10      |
+| Detailed design                    | 20      |
+| Codebase                           | 30      |
+| Testing                            | 15      |
+| Sprint planning                    | 10      |
+| Teamwork                           | 15      |
+| Addressing TA feedback             | 10      |
+| **Total**                          | **100** |
 
-### Revisions
+### Revisions & Addressing TA feedback
 
-* All required revisions from Sprint 1 have been sufficiently addressed.
+* The team has made meaningful efforts to incorporate the TA's feedback from previous sprint.
+* Specific issues raised by the TA have been acknowledged and resolved or a clear plan has been documented to address any remaining concerns.
+* Changes based on feedback are evident in the project deliverables (e.g., revisions, codebase, design).
+* Teams should demonstrate an understanding of the feedback by providing clear justifications or explanations for any decisions that differ from the TA's suggestions.
+* Proactive communication with the TA regarding feedback implementation is encouraged.
 
 ### Detailed design
 
@@ -79,10 +83,3 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 * Team as a whole has made real progress since the last sprint - accomplished what they had planned to
 * Scrum roles are defined for the sprint (in their own section, separate of the team canvas)
 
-### Addressing TA feedback
-
-* The team has made meaningful efforts to incorporate the TA's feedback from previous sprint.
-* Specific issues raised by the TA have been acknowledged and resolved or a clear plan has been documented to address any remaining concerns.
-* Changes based on feedback are evident in the project deliverables (e.g., revisions, codebase, design).
-* Teams should demonstrate an understanding of the feedback by providing clear justifications or explanations for any decisions that differ from the TA's suggestions.
-* Proactive communication with the TA regarding feedback implementation is encouraged.
