@@ -22,7 +22,6 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 | Testing                            | 15      |
 | Sprint planning                    | 10      |
 | Teamwork                           | 15      |
-| Addressing TA feedback             | 10      |
 | **Total**                          | **100** |
 
 ### Revisions & Addressing TA feedback
