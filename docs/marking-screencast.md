@@ -2,7 +2,7 @@
 
 Think about the screencast as a marketing vehicle for your project. Keep it short enough and engaging, be creative. Your goal is to demo your system in the best possible way. 
 
-It will be posted on the [CMPUT 401 portal](https://cmput401.ca/) and [YouTube channel](https://www.youtube.com/channel/UCmKhG9HEMgzaUfdBcyv2nBA), you may use it for your portfolio. 
+It may be posted on the [CMPUT 401 portal](https://cmput401.ca/) and [YouTube channel](https://www.youtube.com/channel/UCmKhG9HEMgzaUfdBcyv2nBA), you may use it for your portfolio. 
 
 Upload your screencast to your Google Drive (preferably, in HD) and post the link in your Github repo. Include in the filename your team name.
 
@@ -10,11 +10,10 @@ Upload your screencast to your Google Drive (preferably, in HD) and post the lin
 
 | Deliverable                  | Marks  |
 | ---------------------------- | ------ |
-| Product demo                 | 4      |
-| Organization                 | 4      |
-| Script                       | 4      |
-| Visual appeal and creativity | 4      |
-| Audio quality                | 4      |
+| Product demo                 | 5      |
+| Organization                 | 5      |
+| Visual appeal and creativity | 5      |
+| Audio quality                | 5      |
 | **Total**                    | **20** |
 
 ### Product demo
@@ -27,12 +26,6 @@ Upload your screencast to your Google Drive (preferably, in HD) and post the lin
 * The screencast is well organized and easy to follow
 * Timing of the screencast is optimal (not too long, not too short)
 * The level of detail is appropriate
-
-### Script
-
-* The script is clear and concise
-* There are no spelling or grammar mistakes
-* Script includes voice over and text in the video
 
 ### Visual appeal and creativity
 
@@ -50,4 +43,5 @@ Upload your screencast to your Google Drive (preferably, in HD) and post the lin
 * Team name is not in the filename
 * No voice over in the video
 * Using computer generated voices
+
 * Use of copyright music
