@@ -1,28 +1,28 @@
-# University of Alberta <br> CMPUT 401 - Software Process and Product Management <br> LEC-A1 <br> Fall 2024
+# University of Alberta <br> CMPUT 401 - Software Process and Product Management <br> LEC-A1 <br> Fall 2025
 
-**eClass Page**: https://eclass.srv.ualberta.ca/course/view.php?id=98625
 
 ## Lecture
 * In-person
-* **Fridays**, 9:00AM to 10:50AM, SAB 3-36
+* **Fridays**, 9:00AM to 10:50AM, VVC 2-210
 
 
 ## Labs/Seminars
 * In-person
-* **Most Wednesdays**, 9:00AM to 10:50AM, ECHA L1-350
+* **Most Wednesdays**, 9:00AM to 10:50AM, VVC 2-210
   
 * **Some Mondays**, 9:00AM to 10:50AM
-    * Monday, January 13, ECHA L1-350
+    * Monday, September 8, CSB B-10
 
-* **Sunday**, January 19 12:00PM to 3:00PM, NRE 1-001
+
   
 ## Hackathon    
-* **Friday** evening, Jan 17th, 5:00PM - 9:00PM, NRE 1-001
-* **Saturday**, Jan 18th, 9:00AM - 6:00PM, NRE 1-001
+* **Friday** evening, September 12th, 5:00PM - 9:00PM, ETLC E2-001
+* **Saturday**, September 13th, 9:00AM - 6:00PM, ETLC E2-001
+* **Sunday**, September 14th 12:00PM to 3:00PM, ETLC E2-001
 
 ## Presentations and Demo 
-* **Monday**, April 7th, ED 165
-* **Wednesday** April 9, ED 165
+* **Monday**, December 5th, VVC 2-210
+* **Wednesday** December 8, CSB B-10
 
 
 
@@ -155,14 +155,14 @@ However, these changes do not depend on the class average, they depend on the pe
 
 ### Statement of Expectations for AI Use
 
-**You MUST not submit work by Chat GPT as your own, that is plagiarism.** This also applies to other "AI" and Generative Models: Lex.page, DALL-E2, Google BARD, Microsoft Bing, and others. If you use ChatGPT you must cite it. This includes the Entity, Resource, Subject, and Date. For example:
+**You MUST not submit work by ChatGPT as your own, that is plagiarism.** This also applies to other "AI" and Generative Models: Lex.page, DALL-E2, Google BARD, Microsoft Bing, and others. If you use ChatGPT you must cite it. This includes the Entity, Resource, Subject, and Date. For example:
 
 ```.js
 // The following function from Microsoft, Bing, "How do I write a merge sort in JavaScript?", 2023-08-31
 function mergeSort(array) {
 ```
 
-If you use ChatGPT **you must cite it**, but it's probably better to Google what it tells you and find a real citation because:
+If you use AI **you must cite it**, but it's probably better to Google what it tells you and find a real citation because:
 
 **ChatGPT is wrong a lot.** It does not understand computer science. It understands how to form sentences and paragraphs well enough to be convincing, but it doesn't actually understand what anything it is saying means. When it has the choice between two sentences, with opposite meanings, it will pick the sentence that looks more like English it has seen, it does not pick the one that is most correct. This means you need to double-check that what it tells you is actually correct.
 
@@ -320,3 +320,4 @@ Any typographical errors in this Course Outline are subject to change and will b
 * 2023-09-20 - Added location of where meeting minutes should be placed (in `/docs` folder labeled as `meeting-minutes.md`)
 * 2024-01-05 - Edited for Winter 2024 term
 * 2024-02-02 - Specified where scrum roles should be, removed Belbin role links
+
