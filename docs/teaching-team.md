@@ -11,24 +11,25 @@ See [Course Outline](../course-outline/).
 **Email**: <asalimi@ualberta.ca>  
 
 
-### Mohayeminul Islam
+### Akalanka Galappaththi
 
-**Email**: <mdmohaye@ualberta.ca>  
-
-
-### Hasti Karamdel
-
-**Email**: <karamdel@ualberta.ca>  
+**Email**: <akalanka@ualberta.ca>  
 
 
-### Justin Robertson
+### Joshua Billson
 
-**Email**: <jtrober1@ualberta.ca>  
+**Email**: <billson@ualberta.ca>  
 
 
-### Jonathen Adsit
+### Akhil Sunil
 
-**Email**: <adsit@ualberta.ca>  
+**Email**: <asunil@ualberta.ca>  
+
+
+### Mohammad Shahriar Hossain
+
+**Email**: <mhossai6@ualberta.ca>  
+
 
 
 
