@@ -210,7 +210,7 @@ There are two special Scrum roles that must be defined for each sprint:
 * Scrum Master
 * Product Owner
 
-You may choose to elect a Scrum Master and Product Owner for the whole project or switch roles for each sprint so that more team members can get product management experience. A good overview of skills and responsibilities of a Scrum Master and a Product Owner: <https://productmanagerhq.com/scrum-master-vs-product-owner/>.
+You may choose to elect a Scrum Master and Product Owner for the whole project or switch roles for each sprint so that more team members can get product management experience. A good overview of skills and responsibilities of a Scrum Master and a Product Owner: <https://producthq.org/career/scrum-master/scrum-master-vs-product-owner/>.
 
 Please define these roles in a section independent of the team canvas.
 
@@ -219,3 +219,4 @@ Please define these roles in a section independent of the team canvas.
 For each of the team member, list their **preferred**, **manageable** and **least preferred** roles.
 
 Then, list all nine Belbin roles and, for each role, provide a brief description and a list of people who are able to fulfill that role.
+
