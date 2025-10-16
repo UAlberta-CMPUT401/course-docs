@@ -2,7 +2,6 @@
 
 In this sprint, you will continue working on the codebase and tests. You will also focus on UI and UX design.
 
-During the last week of this sprint, you will demo your prototype to your classmates (science fair style).
 
 ## Late release submission policy
 
@@ -53,5 +52,6 @@ _**Revisions & Addressing TA feedback**, **Codebase**, and **Teamwork** delivera
 * Velocity is re-estimated for Sprints 4 and 5
 * Sprint 4 tasks are included in the project plan (in their own section, separate of the team canvas)
 * Detailed Github Issues for Sprint 4 correspond with the storymap and project plan, have relevant states, milestones, labels and assignees
+
 
 
