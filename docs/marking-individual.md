@@ -16,7 +16,7 @@ Each form is marked as all-or-nothing.
 | Sprint 4 form                    | 10      |
 | Sprint 5 form                    | 10      |
 | Final individual reflection form | 40      |
-| **Total**                        | **100** |
+| **Total**                        | **90** |
 
 ## Participation
 
@@ -27,4 +27,5 @@ Participation is marked as follows:
 * **Satisfactory (4):** Participate in more than 60% of classes and labs;
 * **Good (6):** Participate in more than 70% of classes and labs;
 * **Excellent (7):** Participate in more than 80% of classes, labs, and seminars.
+
 
