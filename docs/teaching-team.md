@@ -11,9 +11,9 @@ See [Course Outline](../course-outline/).
 **Email**: <asalimi@ualberta.ca>  
 
 
-### Akalanka Galappaththi
+### Hasti Karamdel
 
-**Email**: <akalanka@ualberta.ca>  
+**Email**: <karamdel@ualberta.ca>  
 
 
 ### Joshua Billson
@@ -21,14 +21,15 @@ See [Course Outline](../course-outline/).
 **Email**: <billson@ualberta.ca>  
 
 
-### Akhil Sunil
+### Jonathen Adsit
 
-**Email**: <asunil@ualberta.ca>  
+**Email**: <adsit@ualberta.ca>  
 
 
 ### Mohammad Shahriar Hossain
 
 **Email**: <mhossai6@ualberta.ca>  
+
 
 
 
