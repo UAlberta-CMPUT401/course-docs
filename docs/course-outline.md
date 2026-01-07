@@ -1,4 +1,4 @@
-# University of Alberta <br> CMPUT 401 - Software Process and Product Management <br> LEC-A1 <br> Fall 2025
+# University of Alberta <br> CMPUT 401 - Software Process and Product Management <br> LEC-B1 <br> Winter 2026
 
 
 ## Lecture
@@ -320,6 +320,7 @@ Any typographical errors in this Course Outline are subject to change and will b
 * 2023-09-20 - Added location of where meeting minutes should be placed (in `/docs` folder labeled as `meeting-minutes.md`)
 * 2024-01-05 - Edited for Winter 2024 term
 * 2024-02-02 - Specified where scrum roles should be, removed Belbin role links
+
 
 
 
