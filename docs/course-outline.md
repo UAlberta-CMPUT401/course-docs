@@ -3,26 +3,26 @@
 
 ## Lecture
 * In-person
-* **Fridays**, 9:00AM to 10:50AM, VVC 2-210
+* **Fridays**, 9:00AM to 10:50AM, ED 165
 
 
 ## Labs/Seminars
 * In-person
-* **Most Wednesdays**, 9:00AM to 10:50AM, VVC 2-210
+* **Most Wednesdays**, 9:00AM to 10:50AM, KHRA L1-350
   
 * **Some Mondays**, 9:00AM to 10:50AM
-    * Monday, September 8, CSB B-10
+    * Monday, January 12, KHRA L1-350
 
 
   
 ## Hackathon    
-* **Friday** evening, September 12th, 5:00PM - 9:00PM, ETLC E2-001
-* **Saturday**, September 13th, 9:00AM - 6:00PM, ETLC E2-001
-* **Sunday**, September 14th 12:00PM to 3:00PM, ETLC E2-001
+* **Friday** evening, January  16th, 5:00PM - 9:00PM, NRE 1-001
+* **Saturday**, January 17th, 9:00AM - 6:00PM, NRE 1-001
+* **Sunday**, January 18th 9:00AM - 6:00PM, NRE 1-001
 
-## Presentations and Demo 
-* **Monday**, December 5th, VVC 2-210
-* **Wednesday** December 8, CSB B-10
+## PechaKucha Presentations and Demo 
+* **Wednesday**, April 8, ED 165
+* **Friday** April 10, ED 165
 
 
 
@@ -320,5 +320,6 @@ Any typographical errors in this Course Outline are subject to change and will b
 * 2023-09-20 - Added location of where meeting minutes should be placed (in `/docs` folder labeled as `meeting-minutes.md`)
 * 2024-01-05 - Edited for Winter 2024 term
 * 2024-02-02 - Specified where scrum roles should be, removed Belbin role links
+
 
 
