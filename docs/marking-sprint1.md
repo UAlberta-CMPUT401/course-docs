@@ -72,9 +72,10 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 ### Sprint planning
 
 * Storymap clearly represents the project and includes all five sprints. Story map has to include all user stories (Must do, Should do, Could do and Won't do) with proper categorization and numbering.
-* Project plan clearly shows the major milestones to be accomplished for all five sprints, including deadlines
+* Project plan clearly shows the major milestones to be accomplished for all five sprints.
 * User stories are included in the project plan for Sprints 2 to 5
 * Estimated velocity is calculated for Sprints 2 to 5
+* The project plan includes Sprint 1 and 2 tasks with associated user stories, assignees, and due dates.
 * Detailed Github Issues for Sprints 1 and 2 correspond with the storymap and project plan, have relevant states, milestones, labels and assignees
 
 ### Teamwork
@@ -88,5 +89,6 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 ### Formatting
 
 * All documents are consistently formatted and carefully proofread
+
 
 
