@@ -63,7 +63,7 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
     * Tests should include success and failure scenarios (e.g. test good password and bad password)
     * Tests should ideally be user interface tests using UI test automation tools (e.g. selenium for web UIs)
     * API should be tested if applicable
-    * Unit tests (tests per function, method, class in the code) are **not** required
+    * Unit tests (tests per function, method, class in the code) are encouraged, but not required if alternative tests (such as integration or system tests) sufficiently test the codebase and provide a comparable level of confidence in correctness; code coverage may be used as supporting evidence, but not as the sole criterion.
 
 ### Sprint planning
 
@@ -81,4 +81,5 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 * Team works well with the TA (asks questions/advice, reports progress meaningfully, addresses feedback, is kept in-the-loop about client)
 * Team as a whole has made real progress since the last sprint - accomplished what they had planned to
 * Scrum roles are defined for the sprint (in their own section, separate of the team canvas)
+
 
