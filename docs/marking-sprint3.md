@@ -34,6 +34,7 @@ _**Revisions & Addressing TA feedback**, **Codebase**, and **Teamwork** delivera
 * Accessibility is considered and described in the docs (e.g. colors pass contrast check, see <https://accessibilityaid.com/free-tools/colour-contrast-checker>)
 
 ### Testing
+* Project is deployed to a non-local (production-like) environment, and acceptance tests are executed against the deployed system (not a local development instance)
 * Tests exist and run for (as many as possible of) the demonstrated functionalities
     * Tests should be Acceptance Tests for testing user stories from the user's point-of-view
     * Tests should be labelled with what user story they're for
@@ -41,7 +42,7 @@ _**Revisions & Addressing TA feedback**, **Codebase**, and **Teamwork** delivera
     * Tests should include success and failure scenarios (e.g. test good password and bad password)
     * Tests should ideally be user interface tests using UI test automation tools (e.g. selenium for web UIs)
     * API should be tested if applicable
-    * Unit tests (tests per function, method, class in the code) are **not** required
+    * Unit tests (tests per function, method, class in the code) are encouraged but **not** required
 * At least one self-hosted Runner for Github Actions is setup
 
 
@@ -52,6 +53,7 @@ _**Revisions & Addressing TA feedback**, **Codebase**, and **Teamwork** delivera
 * Velocity is re-estimated for Sprints 4 and 5
 * Sprint 4 tasks are included in the project plan (in their own section, separate of the team canvas)
 * Detailed Github Issues for Sprint 4 correspond with the storymap and project plan, have relevant states, milestones, labels and assignees
+
 
 
 
