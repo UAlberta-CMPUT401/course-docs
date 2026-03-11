@@ -24,6 +24,10 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 
 _**Revisions & Addressing TA feedback**, **UX, UI design**, **Codebase**, **Testing**, and **Teamwork** deliverables are similar to the ones in the previous sprint._
 
+### Testing
+
+Self-hosted Runners for Github Actions are setup for all acceptance tests.
+
 ### Sprint planning
 
 * Storymap clearly represents the current state of the project
@@ -31,3 +35,4 @@ _**Revisions & Addressing TA feedback**, **UX, UI design**, **Codebase**, **Test
 * Velocity is re-estimated for Sprint 5
 * Sprint 5 tasks are included in the project plan
 * Detailed Github Issues for Sprint 5 correspond with the storymap and project plan, have relevant states, milestones, labels and assignees
+
