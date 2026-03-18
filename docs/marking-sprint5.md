@@ -66,7 +66,7 @@ _**Revisions & Addressing TA feedback**, and **Teamwork** deliverables are simil
 * There is a "Requirements Traceability Matrix" tracking the testing of all functionalities
 * At least one static code analysis testing tool (example: SonarQube) has been tried and its reports have been analyzed with an explanation of what the tool does and what has been analyzed in your code
 * Manual acceptance tests (if applicable, i.e., functionality cannot be tested automatically) cover the implemented requirements
-* CI/CD covers some of the functionalities
+* The project is automatically built and deployed by the CI/CD pipeline upon successful completion of the test cases.
 
 ### CMPUT 401 Portal
 
