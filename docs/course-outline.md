@@ -1,28 +1,24 @@
-# University of Alberta <br> CMPUT 401 - Software Process and Product Management <br> LEC-B1 <br> Winter 2026
+# University of Alberta <br> CMPUT 401 - Software Process and Product Management <br> LEC-A1 <br> Fall 2026
 
 
 ## Lecture
 * In-person
-* **Fridays**, 9:00AM to 10:50AM, ED 165
+* **Fridays**, 9:00AM to 10:50AM, VVC 2-210
 
 
-## Labs/Seminars
+## Labs
 * In-person
-* **Most Wednesdays**, 9:00AM to 10:50AM, KHRA L1-350
+* **Most Wednesdays**, starting September 16, 9:00AM to 10:50AM, VVC 2-210
   
-* **Some Mondays**, 9:00AM to 10:50AM
-    * Monday, January 12, KHRA L1-350
-
-
   
 ## Hackathon    
-* **Friday** evening, January  16th, 5:00PM - 9:00PM, NRE 1-001
-* **Saturday**, January 17th, 9:00AM - 6:00PM, NRE 1-001
-* **Sunday**, January 18th 9:00AM - 6:00PM, NRE 1-001
+* **Friday** evening, September  11th, 5:00PM - 9:00PM, ETLC E2-001
+* **Saturday**, September 12th, 9:00AM - 6:00PM, ETLC E2-001
+* **Sunday**, September 13th 9:00AM - 6:00PM, ETLC E2-001
 
 ## PechaKucha Presentations and Demo 
-* **Wednesday**, April 8, ED 165
-* **Friday** April 10, ED 165
+* **Wednesday**, December 4, VVC 2-210
+* **Friday** December 7, SAB 4-36
 
 
 
@@ -113,7 +109,7 @@ Besides the final exam, your individual work component involves:
 | [Assignment](/course-docs/marking-individual/#assignment)                | 5%      |
 | [Reflection forms](/course-docs/marking-individual/#reflection-forms)    | 3%      |
 | [Participation](/course-docs/marking-individual/#participation)          | 7%      |
-| Final exam                                                               | 15%     |
+| Midterm exam                                                             | 15%     |
 | **Total**                                                                | **30%** |
 
 Students must verify the Final Exam date on BearTracks when the Final Exam Schedule is posted.
