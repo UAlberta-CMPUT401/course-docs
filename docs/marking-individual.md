@@ -23,9 +23,9 @@ Each form is marked as all-or-nothing.
 Participation is marked as follows:
 
 * **Failure (0):** Participate in less than 50% of classes and labs;
-* **Unsatisfactory (2):** Participate in more than or equal to 50% of classes and labs;
-* **Satisfactory (4):** Participate in more than 60% of classes and labs;
-* **Good (6):** Participate in more than 70% of classes and labs;
-* **Excellent (7):** Participate in more than 80% of classes, labs, and seminars.
+* **Unsatisfactory (4):** Participate in more than or equal to 50% of classes and labs;
+* **Satisfactory (6):** Participate in more than 60% of classes and labs;
+* **Good (8):** Participate in more than 70% of classes and labs;
+* **Excellent (10):** Participate in more than 80% of classes, labs, and seminars.
 
 
