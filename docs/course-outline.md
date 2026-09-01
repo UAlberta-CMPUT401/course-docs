@@ -108,8 +108,8 @@ Besides the final exam, your individual work component involves:
 | -----------------------------------------------------------------------  | ------- |
 | [Assignment](/course-docs/marking-individual/#assignment)                | 5%      |
 | [Reflection forms](/course-docs/marking-individual/#reflection-forms)    | 3%      |
-| [Participation](/course-docs/marking-individual/#participation)          | 7%      |
-| Midterm exam                                                             | 15%     |
+| [Participation](/course-docs/marking-individual/#participation)          | 10%      |
+| Midterm exam                                                             | 12%     |
 | **Total**                                                                | **30%** |
 
 Students must verify the Final Exam date on BearTracks when the Final Exam Schedule is posted.
