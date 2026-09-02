@@ -6,9 +6,9 @@ See [Course Outline](../course-outline/).
 
 ## Teaching Assistants
 
-### Amir Salimi
+### Joshua Billson
 
-**Email**: <asalimi@ualberta.ca>  
+**Email**: <billson@ualberta.ca>  
 
 
 ### Hasti Karamdel
@@ -16,21 +16,17 @@ See [Course Outline](../course-outline/).
 **Email**: <karamdel@ualberta.ca>  
 
 
-### Joshua Billson
+### Karanjot Singh
 
-**Email**: <billson@ualberta.ca>  
-
-
-### Jonathen Adsit
-
-**Email**: <adsit@ualberta.ca>  
+**Email**: <karanjo3@ualberta.ca>  
 
 
-### Mohammad Shahriar Hossain
+### Matthew Hendrickson
 
-**Email**: <mhossai6@ualberta.ca>  
-
-
+**Email**: <mhendri1@ualberta.ca>  
 
 
+### Alexandru Ianta
+
+**Email**: <ianta@ualberta.ca>  
 
