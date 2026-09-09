@@ -16,9 +16,9 @@ See [Course Outline](../course-outline/).
 **Email**: <karamdel@ualberta.ca>  
 
 
-### Karanjot Singh
+### Amir Salimi
 
-**Email**: <karanjo3@ualberta.ca>  
+**Email**: <asalimi@ualberta.ca>  
 
 
 ### Matthew Hendrickson
