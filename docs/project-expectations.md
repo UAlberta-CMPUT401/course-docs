@@ -39,17 +39,6 @@ Meeting minutes will record the: date and time, location, attendees, agenda of w
 * You should be meeting with your TA every week during the assigned lab.
 * You should be meeting with your client every week (minimum: once per sprint).
 
-## 401 IP Agreement Form
-
-Please make sure everyone on the team & the client sign the IP agreement form. It's listed on the eClass. The purpose & rationale of the form is:
-
-* Clients want to be able to own the code after the end of the project to do as they please, for example: keep working with the code.
-* The idea for the project belongs to the client and the code comes from the team's work.
-* The client can use the code for their idea.
-* The team can use the code for any other ideas that they may have
-* It is required because the project ideas are creative and related to the client's business/project.
-
-If you have any further concerns, please email the instructor. 
 
 ## Project Documentation
 
