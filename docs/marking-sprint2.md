@@ -62,6 +62,7 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
     * Tests should be tracked in a "Requirements Traceability Matrix"
     * Tests should include success and failure scenarios (e.g. test good password and bad password)
     * Tests should ideally be user interface tests using UI test automation tools (e.g. selenium for web UIs)
+    * All GitHub workflows must execute on self hosted runners.
     * API should be tested if applicable
     * Unit tests (tests per function, method, class in the code) are encouraged, but not required if alternative tests (such as integration or system tests) sufficiently validate the codebase and provide a comparable level of confidence in correctness; code coverage may be used as supporting evidence, but not as the sole criterion.
 
