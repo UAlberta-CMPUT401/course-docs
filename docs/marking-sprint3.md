@@ -43,7 +43,8 @@ _**Revisions & Addressing TA feedback**, **Codebase**, and **Teamwork** delivera
     * Tests should ideally be user interface tests using UI test automation tools (e.g. selenium for web UIs)
     * API should be tested if applicable
     * Unit tests (tests per function, method, class in the code) are encouraged but **not** required
-* At least one self-hosted Runner for Github Actions is setup
+* At least one self-hosted Runner for Github Actions is setup.
+* Any GitHub workflows must execute on self hosted runners.
 
 
 ### Sprint planning
