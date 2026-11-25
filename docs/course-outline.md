@@ -108,7 +108,7 @@ Besides the final exam, your individual work component involves:
 | -----------------------------------------------------------------------  | ------- |
 | [Assignment](/course-docs/marking-individual/#assignment)                | 5%      |
 | [Reflection forms](/course-docs/marking-individual/#reflection-forms)    | 3%      |
-| [Participation](/course-docs/marking-individual/#participation)          | 10%      |
+| [Participation](/course-docs/marking-individual/#participation)          | 10%     |
 | Midterm exam                                                             | 12%     |
 | **Total**                                                                | **30%** |
 
@@ -118,7 +118,15 @@ Grades are unofficial until approved by the Department and/or Faculty offering t
 
 #### Participation
 
-Students are expected to attend and participate in all classes and labs. Each class may include one or more individual or group exercises. Each lab usually includes a stand-up meeting and may also include other individual or group activities. Missed participation work will not be excused.
+Students are expected to attend and participate in all classes and labs. Each class may include one or more individual or group exercises. Each lab usually includes a stand-up meeting and may also include other individual or group activities. There are no excused absences in this course. Instead, students may miss up to 20% of course participation and still receive full marks. This is intended to account for situations where you would normally request an excused absence. Refer to the table below for participation breakpoints. Note that less than 50% attendance will result in a grade of zero.
+
+| Participation (%)   | Grade  |
+| ------------------  | ------ |
+| [0, 50)             | 0      |
+| [50, 60)            | 4      |
+| [60, 70)            | 6      |
+| [70, 80)            | 8      |
+| [80, 100]           | 10     |
 
 ### Letter Grades
 
